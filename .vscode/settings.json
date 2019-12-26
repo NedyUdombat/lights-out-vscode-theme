@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 2,
+  "editor.renderLineHighlight": "all",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.insertSpaces": true,
+}

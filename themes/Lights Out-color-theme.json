@@ -14,7 +14,7 @@
 		"activityBar.activeBorder": "#666666",
 		"activityBar.activeBackground": "#000000",
 		"sideBar.background": "#000",
-		"sideBar.foreground": "#666",
+		"sideBar.foreground": "#999",
 		"sideBar.border": "#111",
 		"sideBarTitle.foreground": "#999",
 		"sideBarSectionHeader.background": "#000",
@@ -84,7 +84,12 @@
     "editor.selectionHighlightBackground": "#5f7e9788",
     "editor.inactiveSelectionBackground": "#c3e88d55",
     "editor.findMatchBackground": "#085D9299",
-    "editor.findMatchHighlightBackground": "#085D9299",
+    "editor.findMatchHighlightBackground": "#064973",
+    "editor.hoverHighlightBackground": "#085D9299",
+    "editor.lineHighlightBackground": "#000",
+    "editor.lineHighlightBorder": "#111",
+    "editor.rangeHighlightBackground": "#c3e88d55",
+    "editorWhitespace.foreground": "#222",
 	},
 	"tokenColors": [
 		{
