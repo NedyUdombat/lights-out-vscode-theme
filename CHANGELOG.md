@@ -4,4 +4,4 @@ All notable changes to the "lights-out" extension will be documented in this fil
 
 ## Unreleased
 
-- Added most vscode color theme features
+- Completed relevant vscode color theme features
