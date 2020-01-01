@@ -1,31 +1,46 @@
-import React from 'react';
-import calculate from '../logic/calculate';
-import './App.css';
-import ButtonPanel from './ButtonPanel';
-import Display from './Display';
+import React, { Component } from 'react';
 
-class App extends React.Component {
-  constructor(props) {
-    super(props)
-    this.state = {
-      total: null,
-      next: null,
-      operation: null
-    }
-  }
+// component
+import Layout from '../../wrappers/Layout/Index';
+import Register from '../../components/Register';
 
-  handleClick = buttonName => {
-    this.setState(calculate(this.state, buttonName))
-  }
+// styles
+import './Authentication.scss';
+import Login from '../../components/Login';
 
+class Authentication extends Component {
+  state = {
+    registerState: true,
+  };
+
+  toggleDisplay = () => {
+    const { registerState } = this.state;
+    this.setState(previousState => ({
+      ...previousState,
+      registerState: !registerState,
+    }));
+  };
   render() {
+    const { registerState } = this.state;
     return (
-      <div className="component-app">
-        Tacos
-        <Display value={this.state.next || this.state.total || '0'} />
-        <ButtonPanel clickHandler={this.handleClick} />
-      </div>
-    )
+      <Layout>
+        <h3 className="text-center mt-3 mt-md-3 auth-title">
+          Sign Up To See & Save Your Goals
+        </h3>
+        <section className="d-flex justify-content-center">
+          <div className="card auth-card">
+            <div className="card-body">
+              {registerState ? (
+                <Register toggleAction={this.toggleDisplay} />
+              ) : (
+                <Login toggleAction={this.toggleDisplay} />
+              )}
+            </div>
+          </div>
+        </section>
+      </Layout>
+    );
   }
 }
-export default App
+
+export default Authentication;

@@ -2,6 +2,6 @@
 
 All notable changes to the "lights-out" extension will be documented in this file.
 
-## Unreleased
+## "1.0.0" (01/01/2020)
 
-- Completed vscode color theme customization
+- Initial release - Go into the marketplace and make friends

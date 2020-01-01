@@ -15,7 +15,7 @@
 		"activityBar.activeBackground": "#000000",
 		"sideBar.background": "#000",
 		"sideBar.foreground": "#999",
-		"sideBar.border": "#111",
+		"sideBar.border": "#000",
 		"sideBarTitle.foreground": "#999",
 		"sideBarSectionHeader.background": "#000",
 		"sideBarSectionHeader.foreground": "#999",

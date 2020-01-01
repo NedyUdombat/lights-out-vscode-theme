@@ -2,11 +2,11 @@
     "name": "lights-out",
     "displayName": "Lights Out",
     "description": "A dark vscode color theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "nedy",
     "author": "Nedy Udombat <nedyudombat@gmail.com> (http://twitter.com/nedyudombat)",
     "engines": {
-        "vscode": "^1.41.0"
+        "vscode": "^1.12.0"
     },
     "categories": [
         "Themes"
