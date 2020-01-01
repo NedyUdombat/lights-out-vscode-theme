@@ -4,7 +4,7 @@
 
 A Visual Studio Code Dark theme inspired by [Twitter's](https://twitter.com) light's out mode.
 
-[![Version](https://img.shields.io/badge/Visual%20Studio%20Marketplace-v1.0.0-success?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=nedy.lights-out)
+[![Version](https://img.shields.io/badge/Visual%20Studio%20Marketplace-v1.0.1-success?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=nedy.lights-out)
 [![vscode](https://img.shields.io/badge/VSCODE-THEME-blue?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12)
 [![made in nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=for-the-badge)](https://github.com/acekyd/made-in-nigeria)
 [![vscode](https://img.shields.io/badge/IN-Production-green?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12)
