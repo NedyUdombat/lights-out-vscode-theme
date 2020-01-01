@@ -2,8 +2,6 @@
 
 Hey there! Want to lend a helping hand? Let's get you prepped
 
-_Before jumping in, I'd say that the **VS Code** [theme color reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) is a really great resource to get started with._
-
 ## Follow these simple steps
 
 * Fork the repository,

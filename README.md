@@ -20,6 +20,10 @@ A Visual Studio Code Dark theme inspired by [Twitter's](https://twitter.com) lig
 6. Optional: Use the recommended settings below for best experience
 7. Look at you!!! You did it, now enjoy 🎉🎉.
 
+## **Contribution and Issues**
+
+If you find an issue please do well to report it [here](https://github.com/NedyUdombat/lights-out-vscode-theme/issues), If you feel like spraying some love here by contributing please visit the [contributing guide](https://github.com/NedyUdombat/lights-out-vscode-theme/blob/master/CONTRIBUTION.md) to get started.
+
 ## **Itchy Thoughts 💭**
 
 **Moulded 💆:** Over the Christmas Holiday of 2019, I decided to pass time by building a VScode theme that I would love to use of-course. I had an inspiration from Twitter's Light's out mode. This also serves as a learning process for me as I have not built a VScode extension prior to this.
