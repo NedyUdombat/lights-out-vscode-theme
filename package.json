@@ -3,16 +3,25 @@
     "displayName": "Lights Out",
     "description": "A dark vscode color theme",
     "version": "0.0.1",
+    "publisher": "nedy",
+    "author": "Nedy Udombat <nedyudombat@gmail.com> (http://twitter.com/nedyudombat)",
     "engines": {
         "vscode": "^1.41.0"
     },
     "categories": [
         "Themes"
     ],
-    "license": "SEE LICENSE IN LICENSE.md",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/NedyUdombat/lights-out-vscode-theme"
+    },
+    "bugs": {
+      "url": "https://github.com/NedyUdombat/lights-out-vscode-theme/issues"
+    },
+    "galleryBanner": {
+      "color": "#000000",
+      "theme": "dark"
     },
     "keywords": [
         "Theme",
@@ -31,5 +40,8 @@
                 "path": "./themes/Lights Out-color-theme.json"
             }
         ]
+    },
+    "__metadata": {
+      "publisherDisplayName": "Edidiong Nedy Udombat"
     }
 }
