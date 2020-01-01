@@ -1,11 +1,19 @@
-.someClass {
+.classname {
   font-family: serif;
 }
 
-#someID {
+#id {
   background: yellow;
 }
 
 main {
   margin-top: 20px;
+}
+
+* {
+  margin: 0;
+}
+
+a[target] {
+  background-color: yellow;
 }

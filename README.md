@@ -34,6 +34,6 @@ If you find an issue please do well to report it [here](https://github.com/NedyU
 ## **Reference & Inspiration**
 
 * Twitters Lights Out Mode. 😎
-* Sarah Drasner's [Night Owl Theme](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=twitter-social-sdras), you can read about it [here](https://css-tricks.com/creating-a-vs-code-theme/).
+* Sarah Drasner's [Night Owl Theme](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=twitter-social-sdras), you can read about it [here](https://css-tricks.com/creating-a-vs-code-theme/). *(Credits for the demo folder)*
 * Wes Bos's [Cobalt2 Theme](https://github.com/wesbos/cobalt2-vscode).
 * Olaolu Olawuyi's [Palenight Theme](https://github.com/whizkydee/vscode-material-palenight-theme).

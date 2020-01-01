@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <button @click="getNewIntent" :class="{ disabled: uiState === 'listening' }"></button>
+  <div id="demo">
+    <h1> Vue.js </h1>
   </div>
 </template>
 

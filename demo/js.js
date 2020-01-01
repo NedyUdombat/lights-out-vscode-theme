@@ -1,4 +1,8 @@
 'use strict'
+/**
+** @lang Javascript
+*/
+
 class Sale {
   constructor(price) {
     ;[this.decoratorsList, this.price] = [[], price]

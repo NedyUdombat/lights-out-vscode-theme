@@ -1,26 +1,23 @@
-# Night Owl Theme
+<div align="center">
 
-> Night Owl theme for VS Code.
+# **Lights Out Theme - VScode**
 
-![Preview](images/preview.gif)
+A Visual Studio Code Dark theme inspired by [Twitter's](https://twitter.com) light's out mode.
+
+[![vscode](https://img.shields.io/badge/VSCODE-THEME-blue?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12)
+[![made in nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=for-the-badge)](https://github.com/acekyd/made-in-nigeria)
+[![vscode](https://img.shields.io/badge/Pipeline-Developement-red?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12)
+
+</div>
 
 # Installation
 
-1.  Install [Visual Studio Code](https://code.visualstudio.com/)
-2.  Launch Visual Studio Code
-3.  Choose **Extensions** from menu
-4.  Search for `night-owl`
-5.  Click **Install** to install it
-6.  Click **Reload** to reload the Code
-7.  File > Preferences > Color Theme > **Night Owl**
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Lights Out` - find the one by **Nedy Udombat**
+3. Click **Install** to install it.
+4. Click **Reload** to reload the your editor
+5. Navigate to Code > Preferences > Color Theme > **Lights Out**
+6. Optional: Use the recommended settings below for best experience
+7. Look at you!!! You did it, now enjoy 🎉🎉.
 
--[ ] check check 12 12
--[ ] check check 12 12
-
-Heading 1
-========
-
-Heading 2
---------------
-
-### Heading 3
+## **Contribution and Issues**

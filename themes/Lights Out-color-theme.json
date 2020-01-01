@@ -395,6 +395,13 @@
 				"foreground": "#80CBC4"
 			}
 		},
+    {
+      "name": "Entity Other Attribute Name Id",
+      "scope": "entity.other.attribute-name.id",
+      "settings": {
+        "foreground": "#99ff00"
+      }
+    },
 		{
 			"name": "Sub-methods",
 			"scope": [
@@ -462,7 +469,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#C3e88d"
+				"foreground": "#80CBC4"
 			}
 		},
 		{
@@ -471,7 +478,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#C3e88d"
 			}
 		},
     {
