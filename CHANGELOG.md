@@ -2,6 +2,10 @@
 
 All notable changes to the "lights-out" extension will be documented in this file.
 
+## "1.0.3" (01/01/2020)
+
+- Removed *Kicker* section from Readme
+
 ## "1.0.1" (01/01/2020)
 
 - Fix Version Issue
