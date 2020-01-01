@@ -17,11 +17,11 @@
         "url": "https://github.com/NedyUdombat/lights-out-vscode-theme"
     },
     "bugs": {
-      "url": "https://github.com/NedyUdombat/lights-out-vscode-theme/issues"
+        "url": "https://github.com/NedyUdombat/lights-out-vscode-theme/issues"
     },
     "galleryBanner": {
-      "color": "#000000",
-      "theme": "dark"
+        "color": "#000000",
+        "theme": "dark"
     },
     "keywords": [
         "Theme",
@@ -42,6 +42,6 @@
         ]
     },
     "__metadata": {
-      "publisherDisplayName": "Edidiong Nedy Udombat"
+        "publisherDisplayName": "Edidiong Nedy Udombat"
     }
 }
