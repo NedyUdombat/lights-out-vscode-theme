@@ -18,7 +18,7 @@ A Visual Studio Code Dark theme inspired by [Twitter's](https://twitter.com) lig
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `Lights Out` - find the one by **Nedy Udombat**
 3. Click **Install** to install it.
-4. Click **Reload** to reload the your editor
+4. Click **Reload** to reload the editor
 5. Navigate to Code > Preferences > Color Theme > **Lights Out**
 6. Optional: Use the recommended settings below for best experience
 7. Look at you!!! You did it, now enjoy 🎉🎉.
